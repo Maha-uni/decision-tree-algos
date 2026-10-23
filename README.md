@@ -37,27 +37,15 @@ as required by the implementations.
 - ID3: Uses Information Gain.
 - C4.5: Uses Gain Ratio.
 - CART: Uses Gini Impurity and binary splits.
-
-Note: These descriptions should match the actual
-implementation in each Python file.
+  
 
 ## Technologies
 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn (if used in the code)
+- Scikit-learn
 
-## Project Structure
-
-decision-tree-algos/
-├── data/
-├── ID3.py
-├── C45.py
-├── CART.py
-├── preprocessor.py
-├── README.md
-└── requirements.txt
 
 ## How to Run
 
